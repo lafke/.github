@@ -1,7 +1,5 @@
 # Lafke
 
-Developer-first security tools for safer software.
-
 Lafke records the trust decision for each dependency in `lafke.lock`, fails CI when that
 state drifts, and analyzes your own source code for vulnerabilities, committed secrets and
 unsafe infrastructure settings. Analysis runs locally; your source code is never uploaded.
