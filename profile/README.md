@@ -19,6 +19,7 @@ Documentation: [lafke.dev](https://lafke.dev)
 | --- | --- |
 | [lafke/lafke](https://github.com/lafke/lafke) | The command-line interface, GitHub Action and pre-commit hook. |
 | [lafke/engine-releases](https://github.com/lafke/engine-releases) | Prebuilt, attested releases of `lafke-engine`, the source-code analysis engine. |
+| [lafke/demo](https://github.com/lafke/demo) | Intentionally vulnerable sample code that shows Lafke findings in GitHub Actions. |
 
 ## Contributing and security
 
