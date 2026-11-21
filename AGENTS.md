@@ -26,6 +26,6 @@ code, only Markdown. This repository is public.
 - Keep the written voice plain and direct English, with no marketing superlatives.
 - Prefer short sections and tables. Keep commands copy-pasteable.
 - Code, comments, commit messages, and everything published to GitHub are in English.
-- Every commit message follows Conventional Commits, is all lowercase, and is 40 to 50
+- Every commit message follows Conventional Commits, is all lowercase, and is 35 to 55
   characters long, counting the whole subject line (e.g. `docs: add a support page for help requests`).
   Check the length before committing.
