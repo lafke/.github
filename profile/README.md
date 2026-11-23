@@ -21,11 +21,11 @@ Read the [documentation](https://lafke.dev) for the full guide.
 
 ## Projects
 
-| Project | What it is |
-| --- | --- |
-| [CLI](https://github.com/lafke/lafke) | The command-line interface, GitHub Action and pre-commit hook. |
+| Project                                                     | What it is                                                                      |
+| ----------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| [CLI](https://github.com/lafke/lafke)                       | The command-line interface, GitHub Action and pre-commit hook.                  |
 | [Engine releases](https://github.com/lafke/engine-releases) | Prebuilt, attested releases of `lafke-engine`, the source-code analysis engine. |
-| [Demo](https://github.com/lafke/demo) | Intentionally vulnerable sample code that shows findings in GitHub Actions. |
+| [Demo](https://github.com/lafke/demo)                       | Intentionally vulnerable sample code that shows findings in GitHub Actions.     |
 
 ## Get involved
 
