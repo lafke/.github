@@ -1,4 +1,4 @@
-<img src="banner.jpg" alt="Lafke" width="100%">
+<img src="https://raw.githubusercontent.com/lafke/.github/main/profile/banner.jpg" alt="Lafke" width="100%">
 
 Lafke records the trust decision for each dependency in `lafke.lock`, fails CI when that
 state drifts, and analyzes your own source code for vulnerabilities, committed secrets and
