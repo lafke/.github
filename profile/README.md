@@ -1,4 +1,4 @@
-# Dependency trust, tracked in your repository
+<img src="https://raw.githubusercontent.com/lafke/.github/main/profile/banner.svg" alt="Lafke: dependency trust, tracked in your repository" width="100%">
 
 Lafke is a command-line tool that keeps a record of what you decided about each
 dependency, and checks your own code for problems.
